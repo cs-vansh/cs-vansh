@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">Cybersecurity Enthusiast and Security Researcher</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cs-vansh" alt="cs-vansh" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/cs-vansh/cs-vansh/blob/main/github.gif">
 
 - 🌱 I’m currently learning **Django**
 
