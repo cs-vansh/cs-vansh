@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📝 I regularly write articles on [https://medium.com/@_v1](https://medium.com/@_v1)
+- 📝 I regularly write articles on [https://medium.com/@vansh_](https://medium.com/@vansh_)
 
 - 💬 Ask me about **Cybersecurity**
 
