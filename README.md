@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/cs-vansh/cs-vansh/blob/main/github.gif">
 
-- 🌱 I’m currently learning **Django**
+🌱 I’m currently learning **Django**
 
-- 📝 I write articles on [https://medium.com/@vansh_](https://medium.com/@vansh_)
+📝 I write articles on [https://medium.com/@vansh_](https://medium.com/@vansh_)
 
-- 💬 Ask me about **Cybersecurity**
+💬 Ask me about **Cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
