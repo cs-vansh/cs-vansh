@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/cs-vansh/cs-vansh/blob/main/github.gif">
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Offensive Security**
 
 - 📝 I write articles on [https://medium.com/@vansh_](https://medium.com/@vansh_)
 
